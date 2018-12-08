@@ -1,0 +1,13 @@
+{
+                "name": "roots/wordpress",
+                "version": "5.0",
+                "require": {
+                    "php": ">=5.3.2",
+                    "johnpbloch/wordpress-core-installer": "^1.0"
+                },
+                "type": "wordpress-core",
+                "dist": {
+                    "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.0",
+                    "type": "zip"
+                }
+            }
